@@ -12,7 +12,7 @@ public class Teacher {
         return id;
     }
     //getter -  it gets the value
-
+    // some lines added
     public void setId(int id) {
         this.id = id;
     }
@@ -29,11 +29,10 @@ public class Teacher {
     public String getEmail() {
         return email;
     }
-
+    // some lines added
     public void setEmail(String email) {
         this.email = email;
     }
-
     public String getMobile() {
         return mobile;
     }
